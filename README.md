@@ -40,8 +40,4 @@ The script will automatically download the pre-trained weights (`yolov8n.pt`) on
 
 ---
 
-## 📷 Results
-The output image `results.jpg` contains bounding boxes and class labels (e.g., bus, person) with confidence scores detected by the YOLOv8 model:
-
-![Detection Results](results.jpg)
 
